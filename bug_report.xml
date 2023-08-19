@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+    <BugReporStructure>
+        <ID>#</ID>
+        <BildOrModule>#</BildOrModule>
+        <Severity>Blocked/Critical/Major/Minor/Trivial</Severity>
+        <Priority>High/Medium/Low</Priority>
+        <DateSubmitted>date time</DateSubmitted>
+        <LastUpdated>date time</LastUpdated>
+        <Reporter>Name Surname</Reporter>
+        <AssignedTo>Name Surname</AssignedTo>
+        <Status>New/Open/Fixed/Duplicate/Verified/Reopened/Closed/Rejected/Deferred/Not a bug</Status>
+        <Environment>
+            <Platform>Browser&version</Platform>
+            <OSAndVersion>Windows/Linux/Mac or etc.</OSAndVersion>
+            <Device>desktop/mobile</Device>
+        </Environment>
+        <Summary>Expound the detected error</Summary>
+        <Description>Describe the detected error</Description>
+        <STR>Type Type a sequence of steps to reproduce the error</STR>
+        <ExpectedResult>Type the expected product result</ExpectedResult>
+        <ActualResult>Type the actual product result</ActualResult>
+        <AttachedRiles>Attach files with error to bug report</AttachedRiles>
+        <EditionInformation>Type edition information if it is required</EditionInformation>
+    </BugReporStructure>
+</root>
